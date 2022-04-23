@@ -1,0 +1,47 @@
+*Tópicos Fundamentais do Git*
+
+- Sha1
+- Objetos Fundamentais
+- Sistema Distribuído
+- Segurança
+
+*Sha1*
+
+Secure Hash Algorithnm, é um conjunto de funções hash criptográficas projetadas pela NSA.
+
+A grosso modo, ele encripta um arquivo gerando uma chave única de 40 caracteres.
+Caso seja alterado alguma coisa, na hora de encriptar, ele ira gerar uma nova chave.
+
+*Objetos Fundamentais*
+
+- Blobs: são arquivos
+- Trees: são arvores que apontam para outras arvores e/ou blobs
+- Commits: é a significância para o conjunto de alterações, que apontam para arvores, que apontam para blobs. Ele aponta para um ultimo commit antes dele, para arvores e para blobs.
+
+Commit Junta Tudo
+
+                 Commit
+                /      \
+             Tree       Tree
+            /    \     /    \
+         Blob   Blob  Blob  Tree
+                            /   \
+                         Blob   Blob
+
+*Chave SSH e Tokens*
+
+Chave ssh é uma forma de estabelecer uma conexão segura e encriptada entre duas máquinas.
+
+clonar = git clone + código ssh
+
+ls -a  = mostrar arquivos ocultos
+
+configurar e-mail no git = git config --global user.email "colocar email aqui"
+
+configurar o nome no git = git config --global user.name "colocar o nome aqui"
+
+*Mark Down*
+
+Uma forma humanizada de usar html.
+
+criar um commit = git commit -m "colocar o nome do commit aqui"

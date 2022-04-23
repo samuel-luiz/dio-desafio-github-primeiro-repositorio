@@ -1,0 +1,100 @@
+1° Pilar do Pensamento Computacional:
+
+*Decomposição*
+
+Quebrar o problema em partes para resolver mais fácil o problema.
+
+- Análise
+- Estratégia
+- Sintese
+- Paralelo
+
+Variáveis, pequenos problemas e segmentação.
+
+Como Decompor?
+
+- Identificar ou coletar dados
+- Agregar os dados
+- Funcionalidade
+
+ex: cozinhar ou funcionamento de uma bike, artigo ou movimentos de um avatar.
+
+Reconhecimento de Padrões
+
+- Modelo base
+- Estrutura invariante
+- Repetição
+
+Similaridades e Diferenças
+
+*Reconhecimento de padrões*
+
+- Humanos: através de comparação
+- Computador: Representação de atributos, Aprendizado - conceito associado ao objeto, armazenar dados e Regras de Decisão
+
+exemplos de aplicações de recohecimento de dados:
+
+- Classificação de Dados
+- Reconhecimento de Imagem
+- Reconhecimento de fala
+- Analise de cenas
+- Classificação de documentos
+
+*Abstração*
+
+É o ato de abstrair, ou seja, observar diferentes elementos, avaliando as características e propriedades em separado.
+
+Generalização
+
+É a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares.
+
+Classificar os dados
+- características
+- Pontos essenciais
+- generalizar x detalhar
+
+Pontos essênciais das características
+
+*Algoritmos*
+
+- Energia
+- Trabalhador
+- Eficiência
+- Rapidez
+
+Não opera sozinho, precisa de instruções detalhadas
+
+O computador recebe, manipula e armazena os dados.
+
+*Step by Step*
+
+Desenvolvimento do Programa
+
+- Análise     - Algoritmo     - Codificação
+
+Algoritmos possuem:
+
+* Sequência de passos com objetivo definido
+* Execução de tarefas específicas
+* Conjunto de operações que resultam em uma sucessão finita de ações
+
+ex:
+	- Preparar um sanduiche
+	- Trocar uma Lâmpada
+	- Fazer uma receita de bolo
+	- trajeto ao trabalho
+
+Como construir um algoritmo?
+
+* Compreensão do problema - pontos mais importantes
+* Definição dados de entrada - dados fornecidos e cenário
+* Definir processamento - cálculos e restrições
+* Definir dados de saída - após o processamento
+* Utilizar um método de construção
+* Teste e diagnóstico - construção e refinamento
+
+Construção de Algoritmos
+
+- Narrativa
+- Fluxograma
+- Pseudocódigo

@@ -1,0 +1,36 @@
+*GUI*
+
+Graphical User Interface
+
+*CLI*
+
+Comamnd Line Interface
+
+O que vamos aprender no curso do GIT:
+
+- mudar de pastas
+- listas as pastas
+- criar pastas/arquivos
+- deletar pastas/arquivos
+
+comando DIR = lista de diretórios
+
+comando CD/ = Navegar entre as pastas
+
+comando CD .. = vltar para o diretório anterior
+
+tecla Tab = autocompletar
+
+comando mkdir = criar uma pasta
+
+comando echo = devolve o que eu digitar
+
+comando > = redirecionador de fluxo
+
+echo >  = vai jogar o que eu digitar, para dentro de um arquivo
+
+exemplo: echo hello > hello.txt
+
+comando del = deletar arquivos
+
+comando rmdir = deletar todo o diretório

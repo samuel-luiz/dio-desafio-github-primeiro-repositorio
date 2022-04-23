@@ -1,0 +1,34 @@
+O que é um Algoritmo?
+
+Uma sequência de passos que resolve um problema.
+
+*Fluxograma*
+
+Ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados.
+
+Podemos entede-lo, na prática, como a documentação dos passos necessários para a execução de um processo qualquer.
+
+*Variável*
+
+Na programação, uma variável é um objeto capaz de reter e representar um valor ou expressão.
+
+- Numéricas
+- Caracteres
+- Alfanuméricas
+- Lógicas
+
+*Constante*
+
+Valores imutáveis e não são alterados durante a vida util do programa.
+
+*Concatenação*
+
+Um termo usado em programação para designar a operação de unir o conteúdo de duas strings*.
+
+*String é uma sequência e caracteres.
+
+*Matriz*
+
+Coleção e variáveis de mesmo tipo, acessíveis com um único nome e armezenados contiguamente na memória.
+
+Os vetores são matrizes de uma só dimensão.

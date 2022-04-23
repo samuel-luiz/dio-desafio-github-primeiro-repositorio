@@ -1,0 +1,21 @@
+O que é Pensamento Computacional?
+
+É a formulação e resolução de problemas.
+
+Não é uma disciplina acadêmica mas sim uma habilidade generalista.
+
+Existem 4 pilares do Pensamento Computacional:
+
+ - Decomposição
+ - Reconhecimento de Padrões
+ - Abstração
+ - Design de Algoritmos
+
+Raciocínio Lógico
+
+
+ - Indução  |               Inferência
+            |               /        \
+ - Dedução  |        Sintética      Analítica
+            |        /       \              \
+ - Abdução  |   Abdução    Indução          Dedução
